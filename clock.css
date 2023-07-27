@@ -29,7 +29,7 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 10px red;
     color: green;
-    cursor: pointer;
+    cursor: none;
     text-shadow: 4px 4px  lightgreen ;
     /* display:flex ;
     justify-content: center;
@@ -42,11 +42,3 @@ body {
   
     animation: glow-border is infinite alternate;
   }
-  /* @keyframes glow-border{
-    from{
-      box-shadow: 0 0 10px #007bff;
-    }
-    to{
-      box-shadow: 0 0 20px #007bff;
-    }
-  } */
